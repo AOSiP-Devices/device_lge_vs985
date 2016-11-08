@@ -1,0 +1,2 @@
+add_lunch_combo aosip_vs985-userdebug
+add_lunch_combo aosip_vs985-eng
